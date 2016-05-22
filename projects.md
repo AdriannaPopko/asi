@@ -41,6 +41,7 @@ Wpisujemy według schematu:
 *Uwaga:* W pliku _README.md_ należy wpisać wszystkich autorów aplikacji.
 
 1. [ADHD](https://github.com/romety2/asi_egz).  [Wypok](http://spalonytoster.me/)
+ [DAMKA](https://github.com/kpalkowska/Flatmate-helper). [Flatmate-helper](https://flatmate-helper-app.herokuapp.com)
 
 ## Projekty na zaliczenie
 
